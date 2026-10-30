@@ -180,7 +180,7 @@ export default class RewriteCardPlugin extends Plugin {
 
   onload(): void {
     this.addCommand({
-      id: "open-rewrite-card",
+      id: "rewrite-selection",
       name: "Rewrite selected text in card",
       icon: "sticky-note",
       hotkeys: [{ modifiers: ["Mod", "Shift"], key: "/" }],
