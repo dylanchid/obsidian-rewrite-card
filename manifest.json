@@ -1,0 +1,9 @@
+{
+  "id": "rewrite-card",
+  "name": "Rewrite Card",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Draft a rewrite beside selected text without changing the original until you apply it.",
+  "author": "dylanchid",
+  "isDesktopOnly": false
+}

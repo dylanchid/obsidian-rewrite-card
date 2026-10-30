@@ -1,0 +1,14 @@
+{
+  "name": "rewrite-card",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.8",
+    "obsidian": "^1.4.11",
+    "typescript": "^5.3.2"
+  }
+}
